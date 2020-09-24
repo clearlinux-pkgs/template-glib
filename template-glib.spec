@@ -4,7 +4,7 @@
 #
 Name     : template-glib
 Version  : 3.34.0
-Release  : 3
+Release  : 4
 URL      : https://gitlab.gnome.org/GNOME/template-glib/-/archive/3.34.0/template-glib-3.34.0.tar.gz
 Source0  : https://gitlab.gnome.org/GNOME/template-glib/-/archive/3.34.0/template-glib-3.34.0.tar.gz
 Summary  : A templating library for GLib
